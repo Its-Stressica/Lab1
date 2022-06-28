@@ -1,0 +1,10 @@
+G:\Study\KPI\2 сем\C.sharp\Labs\Lab\Lab\bin\Debug\Lab.exe.config
+G:\Study\KPI\2 сем\C.sharp\Labs\Lab\Lab\bin\Debug\Lab.exe
+G:\Study\KPI\2 сем\C.sharp\Labs\Lab\Lab\bin\Debug\Lab.pdb
+G:\Study\KPI\2 сем\C.sharp\Labs\Lab\Lab\obj\Debug\Lab.csproj.AssemblyReference.cache
+G:\Study\KPI\2 сем\C.sharp\Labs\Lab\Lab\obj\Debug\Lab.Properties.Resources.resources
+G:\Study\KPI\2 сем\C.sharp\Labs\Lab\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+G:\Study\KPI\2 сем\C.sharp\Labs\Lab\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+G:\Study\KPI\2 сем\C.sharp\Labs\Lab\Lab\obj\Debug\Lab.exe
+G:\Study\KPI\2 сем\C.sharp\Labs\Lab\Lab\obj\Debug\Lab.pdb
+G:\Study\KPI\2 сем\C.sharp\Labs\Lab\Lab\obj\Debug\Lab.Form1.resources
